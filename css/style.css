@@ -9,3 +9,14 @@
 .box_shado {
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
+
+footer {
+    height: 200px;
+    width: 100%;
+    /* background-color: black; */
+}
+
+footer .futer_apps img {
+    height: 50px;
+    width: 200px;
+}
